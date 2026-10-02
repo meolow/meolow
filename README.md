@@ -2,11 +2,11 @@
 
 <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRiMWozdTZvN3VwMGVueW0yYmI4ajU0NXM0d2R2Y2xpNTcwazZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6TgcESZt8FFk8XV7K/giphy.gif"  />
 
-<p align="left">Some random guy<br><br>*picks up waterbottle* <br>*drinks*</p>
+<p align="left">Just some random guy (˵ ¬ᴗ¬˵)<br><br>*picks up waterbottle* <br>*drinks*<br><br>≽(◉˕ ◉ ≼マ</p>
 
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meolow.meolow&left_text=visitors&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=meolow.meolow&left_text=visitors&"  /> 
 </div>
 
 <div align="center">
